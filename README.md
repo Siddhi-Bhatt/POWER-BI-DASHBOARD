@@ -2,6 +2,11 @@
 ## Project Overview
 This Power BI dashboard visualizes the academic performance of students across various subjects. It provides a detailed breakdown of marks, pass/fail statuses, and total scores by student USN (University Seat Number). The dashboard is designed to help educators and administrators quickly assess the performance of individual students and entire classes at a glance.
 
+
+![Screenshot (29)](https://github.com/user-attachments/assets/2c485b51-6853-435a-9f3c-0ddb6a05c27f)
+
+
+
 ## Database Creation
 The dataset used in this project was created from scratch using Excel. Leveraging functions such as `RANDBETWEEN()` and `IF()`, I generated realistic student marks and pass/fail statuses to simulate academic performance data. This approach allowed for the creation of a dynamic dataset to power the visualizations.
 
